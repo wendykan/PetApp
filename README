@@ -1,0 +1,31 @@
+PetApp
+A pet ownership web application
+Wendy Kan 3/23/2011
+
+--------------
+Introduction
+--------------
+PetApp is a web application of pet ownership that includes basic create, read, update, and delete functionalities. 
+It is currently running on
+http://kayakatpet.appspot.com/
+
+------------------------------
+Instruction for installation
+------------------------------
+PetApp is developed in Java with GWT. It is targeted to run on Google App Engine and Google App Engine's Data Store. 
+To run and deploy PetApp, you need the following steps:
+
+1. Download Google Plugin for Eclipse (Assume you have Eclipse installed)
+http://code.google.com/webtoolkit/download.html
+2. Import PetApp Archive file to Eclipse 
+File->Import->Existing Projects into Workspace->Select Archive File)
+3. Apply for an account in Google App Engine and create a new Application
+https://appengine.google.com/
+4. Right-click on PetApp from Package Explorer, Choose "Google" -> "Deploy to App Engine"
+Put in your email, password, and the application name you just created
+5. After it is deployed, it should appear in 
+http://your-application.appengine.com
+
+
+
+
