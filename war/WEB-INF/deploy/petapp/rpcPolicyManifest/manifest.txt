@@ -1,0 +1,3 @@
+# Module petapp
+# RPC service class, partial path of RPC policy file
+com.wendyapp.petapp.client.GreetingService, 2112B3E075DA177E9CC09DC1FCA69BFE.gwt.rpc

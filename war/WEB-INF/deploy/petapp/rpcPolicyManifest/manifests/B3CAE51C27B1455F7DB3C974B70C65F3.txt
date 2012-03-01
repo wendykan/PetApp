@@ -1,0 +1,2 @@
+serviceClass: com.wendyapp.petapp.client.GreetingService
+path: 2112B3E075DA177E9CC09DC1FCA69BFE.gwt.rpc
